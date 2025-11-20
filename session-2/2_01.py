@@ -1,5 +1,6 @@
-# 1.   Quotable API (no registration, free)
+# 0.  Send Emails (SMTP server connection)
+# 👉 Using google app password (requires enabling 2FA) - https://myaccount.google.com/apppasswords
 
-# 🔎  Get a random quote from quotable.io
+# 🔎  Send an email to yourself
 
 

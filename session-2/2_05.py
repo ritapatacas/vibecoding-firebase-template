@@ -1,11 +1,6 @@
-# 5.   OpenAI Text Generation (registration, paid)
-# 👉 OpenAI API - https://platform.openai.com/docs/overview
+# 4.   Google Search Results (registration, free)
+# 👉 SerpAPI - https://serpapi.com/
 
-# 🔎  Generate text with ChatGPT
-
-
-
-# 🔎  Modify the code to count tokens and evaluate the cost of each request to OpenAI
-# 👉 Check the pricing if need be - https://openai.com/api/pricing
+# 🔎  Save the first 10 results of a google search
 
 

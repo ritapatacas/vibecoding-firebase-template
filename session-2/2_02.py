@@ -1,5 +1,5 @@
-# 2.   Wikipedia API (no registration, free)
+# 1.   Quotable API (no registration, free)
 
-# 🔎  Get the first 3 sentences of a Wikipedia page
+# 🔎  Get a random quote from quotable.io
 
 

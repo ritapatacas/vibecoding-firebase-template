@@ -1,6 +1,10 @@
-# 8. Waves Forecast (registration, free)
-# 👉 WorldWeatherOnline - https://www.worldweatheronline.com/
+# 7.   OpenAI Image Description (registration, paid)
+# 👉 OpenAI API - https://platform.openai.com/docs/overview
 
-# 🔎 Find the height of waves in Nazare this week
+# 🔎  Ask ChatGPT to describe the image you generated
+
+
+
+# 🔎  Find if an image is real or AI-generated
 
 

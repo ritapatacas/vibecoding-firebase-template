@@ -1,10 +1,6 @@
-# 7.   OpenAI Image Description (registration, paid)
+# 6.   OpenAI Image Generation (registration, paid)
 # 👉 OpenAI API - https://platform.openai.com/docs/overview
 
-# 🔎  Ask ChatGPT to describe the image you generated
-
-
-
-# 🔎  Find if an image is real or AI-generated
+# 🔎  Generate an image with ChatGPT
 
 

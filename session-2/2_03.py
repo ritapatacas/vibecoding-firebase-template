@@ -1,6 +1,5 @@
-# 3.   Weather API (registration, free)
-# 👉 Open Weather Map - https://openweathermap.org/current
+# 2.   Wikipedia API (no registration, free)
 
-# 🔎  Get the weather from a city
+# 🔎  Get the first 3 sentences of a Wikipedia page
 
 
