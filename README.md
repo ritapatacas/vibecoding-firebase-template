@@ -2,6 +2,19 @@
 
 This is a simple project to help you get started with Python. You should use it for writing your first scripts, let's have a look on this workspace:
 
+---
+
+## 📋 Table of Contents
+
+*   [Exploring the context menu](#exploring-the-context-menu)
+*   [Getting to Know Your IDE](#getting-to-know-your-ide)
+*   [Getting Started](#getting-started)
+*   [Your first challenge: asking what your code means](#your-first-challenge-asking-what-your-code-means)
+*   [How to Run Code](#how-to-run-code)
+*   [Running Files from Any Directory](#running-files-from-any-directory)
+
+---
+
 ## Exploring the context menu
 
 *   **`main.py`**: This is the main file where you will write your Python code. It's the only file you need to worry about for now.
@@ -43,15 +56,55 @@ In the **Gemini Chat**, on the right side of your screen, ask:
 
 ## How to Run Code
 
-Now that you understand the logic, let's run it!
+Now let's run the code you just explored:
 
-You can just hit the `play` button on top right of your current file, or you can run it the *cool way* in the terminal:
-1.  Check if `main.py` file is open in the **Editor**.
-2.  Click into the **Terminal** at the bottom of the screen.
-3.  Type the following command and press Enter:
+1. Make sure `main.py` is open in the **Editor**.
+2. Click into the **Terminal** at the bottom.
+3. Run this command:
 
-    ```bash
-    python main.py
-    ```
+```bash
+python main.py
+```
 
-4.  You will see ```"Hello, world!"``` printed in the terminal.
+4. You should see this message appear in the terminal:
+
+```
+Hello, world!
+```
+
+🎉 Congrats, you just ran your first Python program in Cursor!
+
+### Running Files from Any Directory
+
+> **Important:** The IDE play button uses the system interpreter and does not run code inside the virtual environment. This behavior is generally not configurable. To ensure the correct environment is used, run your files directly from the terminal.
+
+To run a Python file from any directory:
+
+1. **Confirm that your virtual environment is activated.**  
+   You should see `(.venv)` at the start of your terminal prompt.
+
+2. **Open the Terminal.**
+
+3. **Run the file by providing its relative path:**
+
+```bash
+python session-1/1_01.py
+```
+
+**💡 Tab Autocomplete Tip:**  
+Use Tab to autocomplete directories and filenames. For example, typing:
+
+```bash
+python sess
+```
+
+then pressing **Tab** will complete to:
+
+```bash
+python session-1/
+```
+
+This saves time and helps prevent typos!
+
+
+---
